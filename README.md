@@ -1,2 +1,2 @@
 # Newbie
-Newbie OpenWRT
+Data-data yg mungkin saja penting
