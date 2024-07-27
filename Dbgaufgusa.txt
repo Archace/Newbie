@@ -1,5 +1,5 @@
 [Archace]
-! Title: Adblock Warning Removal List
+! Title: Bypass Anti Adblock Nexvils
 ! Version: 202407271131
 ! Last modified: 27 Jul 2024 19.50 WIB
 ! Homepage: https://github.com/Archace/Newbie/
