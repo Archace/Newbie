@@ -1,3 +1,10 @@
+[Archace]
+! Title: Adblock Warning Removal List
+! Version: 202407271131
+! Last modified: 27 Jul 2024 19.50 WIB
+! Homepage: https://github.com/Archace/Newbie/
+!
+
 @@||www3.doubleclick.net
 @@||www3.yahoo.com
 @@||gplinks.in
@@ -13,6 +20,15 @@
 ||kgnow.com
 ||brainlyads.com
 @@||cloudflare.com
+@@||ams.cdn.arkadiumhosted.com
+@@||anidub.com
+@@||fundingchoicesmessages.google.com
+@@||imasdk.googleapis.com
+@@||peimg.fr
+@@||proxy.ads.canalplus-bo.net
+@@||static.admysports.com
+@@||static.adsafeprotected.com
+@@||v.fwmrm.net
 @@||googletagmanager.com
 @@||google-analytics.com
 @@||recaptcha.net
