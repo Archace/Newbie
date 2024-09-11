@@ -33,3 +33,4 @@
 @@||googletagmanager.com
 @@||google-analytics.com
 @@||recaptcha.net
+@@||api.swftcshsnpeq.com
