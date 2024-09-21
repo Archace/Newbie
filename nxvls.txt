@@ -12,7 +12,6 @@
 @@||pagead2.googlesyndication.com
 @@||securepubads.g.doubleclick.net
 @@||googleadservices.com
-||amazonaws.com
 ||tsyndicate.com
 ||magsrv.com
 ||anspangle-ads.com
