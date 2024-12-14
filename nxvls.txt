@@ -5,13 +5,6 @@
 ! Homepage: https://github.com/Archace/Newbie/
 !
 
-@@||www3.doubleclick.net
-@@||www3.yahoo.com
-@@||gplinks.in
-@@||gplinks.co
-@@||pagead2.googlesyndication.com
-@@||securepubads.g.doubleclick.net
-@@||googleadservices.com
 ||tsyndicate.com
 ||magsrv.com
 ||anspangle-ads.com
@@ -19,7 +12,14 @@
 ||histats.com
 ||kgnow.com
 ||brainlyads.com
-@@||cloudflare.com
+
+@@||www3.doubleclick.net
+@@||www3.yahoo.com
+@@||pagead2.googlesyndication.com
+@@||securepubads.g.doubleclick.net
+@@||googleadservices.com
+@@||cdnjs.cloudflare.com
+@@||cdn.jsdelivr.net
 @@||ams.cdn.arkadiumhosted.com
 @@||anidub.com
 @@||fundingchoicesmessages.google.com
