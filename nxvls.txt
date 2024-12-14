@@ -34,6 +34,8 @@
 @@||recaptcha.net
 @@||api.swftcshsnpeq.com
 @@||api.cshsnpcwio.com
+@@||adservice.google.*
+
 
 ##Video
 @@||metrolagu.cam
