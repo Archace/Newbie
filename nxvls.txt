@@ -35,9 +35,8 @@
 @@||recaptcha.net
 @@||api.swftcshsnpeq.com
 @@||api.cshsnpcwio.com
-
-#Video
 @@||metrolagu.cam
+@@||zxc.nyaa-tan.my.id
 
 #New
 @@||ad.doubleclick.net
