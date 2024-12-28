@@ -37,9 +37,3 @@
 @@||api.cshsnpcwio.com
 @@||metrolagu.cam
 @@||zxc.nyaa-tan.my.id
-
-#New
-@@||ad.doubleclick.net
-@@||adservice.google.*
-@@||pubads.g.doubleclick.net
-@@||static.doubleclick.net
