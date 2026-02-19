@@ -14,6 +14,8 @@
 ||brainlyads.com
 ||fundingchoicesmessages.google.com
 ||aff.quranformobile.com
+||scar.unityads.unity3d.com
+||sts.applovin.com
 
 @@||www3.doubleclick.net
 @@||www3.yahoo.com
