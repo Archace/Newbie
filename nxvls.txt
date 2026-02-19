@@ -12,7 +12,7 @@
 ||histats.com
 ||kgnow.com
 ||brainlyads.com
-||fundingchoicesmessages.google.com
+@@||fundingchoicesmessages.google.com
 ||aff.quranformobile.com
 ||scar.unityads.unity3d.com
 ||sts.applovin.com
