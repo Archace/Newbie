@@ -12,7 +12,6 @@
 ||histats.com
 ||kgnow.com
 ||brainlyads.com
-@@||fundingchoicesmessages.google.com
 ||aff.quranformobile.com
 ||scar.unityads.unity3d.com
 ||sts.applovin.com
@@ -32,6 +31,7 @@
 @@||proxy.ads.canalplus-bo.net
 @@||static.admysports.com
 @@||static.adsafeprotected.com
+@@||fundingchoicesmessages.google.com
 @@||v.fwmrm.net
 @@||googletagmanager.com
 @@||google-analytics.com
