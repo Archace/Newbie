@@ -27,7 +27,6 @@
 @@||cloudflare.com
 @@||ams.cdn.arkadiumhosted.com
 @@||anidub.com
-@@||fundingchoicesmessages.google.com
 @@||imasdk.googleapis.com
 @@||peimg.fr
 @@||proxy.ads.canalplus-bo.net
