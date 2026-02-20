@@ -1,7 +1,7 @@
 [Archace]
 ! Title: Bypass Anti Adblock (Nexvils)
 ! Version: 20240919
-! Last modified: 25 Desember 2024 08.00 WIB
+! Last modified: 20 Februari 2026 11.40 WIB
 ! Homepage: https://github.com/Archace/Newbie/
 !
 
@@ -68,6 +68,7 @@
 ||fiam.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||app-measurement.com^
+||googleleadservices.com^
 
 @@||www3.doubleclick.net^
 @@||www3.yahoo.com^
