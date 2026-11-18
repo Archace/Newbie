@@ -96,6 +96,9 @@
 @@||firebaseinstallations.googleapis.com^
 @@||fcm.googleapis.com^
 @@||identitytoolkit.googleapis.com^
+@@||kk.vaudona.com^
+@@||orbsdiacle.com^
+@@||scripts.cleverwebserver.com^
 @@||securetoken.googleapis.com^
 @@||www.googleapis.com^
 @@||play.googleapis.com^
